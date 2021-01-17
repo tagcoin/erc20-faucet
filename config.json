@@ -1,0 +1,15 @@
+{
+  "network": {
+    "rpc": "http://testnet.tagcash.net:8545",
+    "listenInterface": "::0.0.0.0",
+    "listenPort": 8679
+  },
+  "account": {
+    "address": "0xcc4d0743E5ab0Bd0A476082173396D190031AEBd",
+    "privateKey": "74b346fc82aad6ceabd1492ba440c91a6377d9610b84d8224b39fa32596a1edf"
+  },
+  "tokenAddress": "0xc85D2ac1A03545B2B053995A479eC245bED70936",
+  "amount": 1000,
+  "gas": 50000,
+  "gasPrice": 100000000000
+}
